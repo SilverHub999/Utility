@@ -1,4 +1,4 @@
-{
+return {
   ["alucard"] = {
     ["currencies"] = {
       [1] = {
